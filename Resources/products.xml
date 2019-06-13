@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Product id="1">
+    <name>book</name>
+    <price>12.49</price>
+    <isTaxable>0</isTaxable>
+    <isImported>0</isImported>
+  </Product>
+  <Product id="2">
+    <name>music CD</name>
+    <price>14.99</price>
+    <isTaxable>1</isTaxable>
+    <isImported>0</isImported>
+  </Product>
+  <Product id="3">
+    <name>chocolate bar</name>
+    <price>0.85</price>
+    <isTaxable>0</isTaxable>
+    <isImported>0</isImported>
+  </Product>
+  <Product id="4">
+    <name>box of chocolates</name>
+    <price>10.00</price>
+    <isTaxable>0</isTaxable>
+    <isImported>1</isImported>
+  </Product>
+  <Product id="5">
+    <name>bottle of perfume</name>
+    <price>47.50</price>
+    <isTaxable>1</isTaxable>
+    <isImported>1</isImported>
+  </Product>
+  <Product id="6">
+    <name>bottle of perfume</name>
+    <price>27.99</price>
+    <isTaxable>1</isTaxable>
+    <isImported>1</isImported>
+  </Product>
+  <Product id="7">
+    <name>bottle of perfume</name>
+    <price>18.99</price>
+    <isTaxable>1</isTaxable>
+    <isImported>0</isImported>
+  </Product>
+  <Product id="8">
+    <name>packet of headache pills</name>
+    <price>9.75</price>
+    <isTaxable>0</isTaxable>
+    <isImported>0</isImported>
+  </Product>
+  <Product id="9">
+    <name>box of chocolates</name>
+    <price>11.25</price>
+    <isTaxable>0</isTaxable>
+    <isImported>1</isImported>
+  </Product>
+</Products>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TaxRates>
+  <TaxRate id="1">
+    <type>Import Duty</type>
+    <rate>0.05</rate>
+  </TaxRate>
+  <TaxRate id="2">
+    <type>Basic Sales</type>
+    <rate>0.10</rate>
+  </TaxRate>
+</TaxRates>
